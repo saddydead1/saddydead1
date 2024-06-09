@@ -1,6 +1,8 @@
 <h1 align="center">I'm saddydead1🦎</h1>
 <h3 align="center">I'm beginner python/kotlin developer <3</h3>
 
+<div class="tenor-gif-embed" data-postid="15585516621377044995" data-share-method="host" data-aspect-ratio="1.76596" data-width="100%"><a href="https://tenor.com/view/paimon-lumine-pixel-emergency-food-gif-15585516621377044995">Paimon Lumine GIF</a>from <a href="https://tenor.com/search/paimon-gifs">Paimon GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://discord.gg/zGMHu8sjwt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="zGMHu8sjwt" height="30" width="40" /></a>

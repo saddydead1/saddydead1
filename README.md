@@ -1,4 +1,4 @@
-<h1 align="center">I'm saddydead1🦎</h1>
+<h1 align="center">I'm saddydead🦎</h1>
 <h3 align="center">I'm beginner python/kotlin developer <3</h3>
   
 <h3 align="center">Discord server:</h3>

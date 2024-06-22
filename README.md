@@ -1,5 +1,5 @@
 <h1 align="center">I'm saddydead🦎</h1>
-<h3 align="center">I'm beginner python/kotlin developer <3</h3>
+<h3 align="center">I'm beginner backend-developer <3</h3>
   
 <h3 align="center">Discord server:</h3>
 <p align="center">
